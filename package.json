@@ -76,6 +76,7 @@
     "@typescript-eslint/eslint-plugin": "^7.16.0",
     "@typescript-eslint/parser": "^7.16.0",
     "@vercel/ncc": "^0.38.1",
+    "aws-sdk-client-mock": "^4.0.1",
     "eslint": "^8.57.0",
     "eslint-plugin-github": "^5.0.1",
     "eslint-plugin-jest": "^28.6.0",
